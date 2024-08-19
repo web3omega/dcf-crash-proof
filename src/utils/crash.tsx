@@ -1,5 +1,4 @@
-import { createHash } from "crypto";
-//import * as crypto from "crypto-browserify";
+import createHash from "create-hash";
 
 export const calculateGameHash = (
   currentRound: number,
