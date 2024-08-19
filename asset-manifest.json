@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dcf-crash-proof/static/css/main.f855e6bc.css",
+    "main.js": "/dcf-crash-proof/static/js/main.3f6f7489.js",
+    "index.html": "/dcf-crash-proof/index.html",
+    "main.f855e6bc.css.map": "/dcf-crash-proof/static/css/main.f855e6bc.css.map",
+    "main.3f6f7489.js.map": "/dcf-crash-proof/static/js/main.3f6f7489.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3f6f7489.js"
+  ]
+}
